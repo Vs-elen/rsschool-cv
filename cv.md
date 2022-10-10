@@ -24,7 +24,7 @@ Junior Frontend Developer with passion for building responsive web applications 
 * Launch of new websites (Google SEO Tools, Cloudflare)
 * Technical support and updates of the existing websites
 #### Student of Yandex.Praktikum Jan, 2020 - Sep, 2020  
-* Creation of single page applications using responsive design,
+* Creation of single page applications using responsive design
 * Final project comprising AJAX, API requests, BEM and Webpack technologies: <https://github.com/Vs-elen/diploma>
 ### Education 
 Frontend career development program at Yandex.Praktikum
