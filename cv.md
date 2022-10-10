@@ -17,3 +17,12 @@ Junior Frontend Developer with passion for building responsive web applications 
 ### Code examples
 <https://github.com/Vs-elen/Webpack-Mesto>  
 <https://github.com/Vs-elen/tutorial.github.io>
+### Experience
+#### Junior Frontend Developer (Webflow CMS) at Marketing Digital Agency Nov, 2021 - Present
+* Development of custom websites according to Figma designs
+* Script writing (JS, Jquery)
+* Launch of new websites (Google SEO Tools, Cloudflare)
+* Technical support and updates of the existing websites
+#### Student of Yandex.Praktikum Jan, 2020 - Sep, 2020  
+* Creation of single page applications using responsive design,
+* Final project comprising AJAX, API requests, BEM and Webpack technologies: <https://github.com/Vs-elen/diploma>
