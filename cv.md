@@ -26,3 +26,8 @@ Junior Frontend Developer with passion for building responsive web applications 
 #### Student of Yandex.Praktikum Jan, 2020 - Sep, 2020  
 * Creation of single page applications using responsive design,
 * Final project comprising AJAX, API requests, BEM and Webpack technologies: <https://github.com/Vs-elen/diploma>
+### Education 
+Frontend career development program at Yandex.Praktikum
+### Languages
+* Russian(native)
+* English(С2): graduate of Volgograd State University (Department of English Philology)
