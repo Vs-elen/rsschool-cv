@@ -96,6 +96,12 @@ li:last-child {
     margin: 0;
 }
 
+@media screen and (min-width: 992px) {
+    a:hover {
+        text-decoration: underline;
+    }
+}
+
 @media screen and (max-width: 991px) {
     .main {
         flex-direction: column;
